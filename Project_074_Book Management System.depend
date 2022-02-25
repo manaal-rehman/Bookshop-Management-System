@@ -1,0 +1,111 @@
+# depslib dependency file v1.0
+1597557896 source:d:\manaal\comsats university\semester 4\oop\oop final project\project_074_bookshop management system\admin.cpp
+	"Admin.h"
+
+1597557894 d:\manaal\comsats university\semester 4\oop\oop final project\project_074_bookshop management system\admin.h
+	<string>
+
+1597587431 source:d:\manaal\comsats university\semester 4\oop\oop final project\project_074_bookshop management system\animation.cpp
+	"Animation.h"
+	<Windows.h>
+	<iostream>
+	<string>
+
+1597556334 d:\manaal\comsats university\semester 4\oop\oop final project\project_074_bookshop management system\animation.h
+	<string>
+
+1597595745 source:d:\manaal\comsats university\semester 4\oop\oop final project\project_074_bookshop management system\books.cpp
+	"Books.h"
+	"Animation.h"
+	"Controller.h"
+
+1597838188 d:\manaal\comsats university\semester 4\oop\oop final project\project_074_bookshop management system\books.h
+	<string>
+	<iostream>
+	<fstream>
+	<conio.h>
+	<Windows.h>
+
+1597573291 d:\manaal\comsats university\semester 4\oop\oop final project\project_074_bookshop management system\controller.h
+	"string"
+
+1597575328 source:d:\manaal\comsats university\semester 4\oop\oop final project\project_074_bookshop management system\cashbox.cpp
+	"Cashbox.h"
+
+1597575328 d:\manaal\comsats university\semester 4\oop\oop final project\project_074_bookshop management system\cashbox.h
+	<fstream>
+	<string>
+	<iostream>
+
+1597589047 source:d:\manaal\comsats university\semester 4\oop\oop final project\project_074_bookshop management system\controller.cpp
+	"Controller.h"
+	"Cashbox.h"
+	"Books.h"
+	"Animation.h"
+	"Admin.h"
+	<iostream>
+	<fstream>
+	<string>
+	<Windows.h>
+	<conio.h>
+
+1597559113 source:d:\manaal\comsats university\semester 4\oop\oop final project\project_074_bookshop management system\main.cpp
+	"Admin.h"
+	"Controller.h"
+	"fstream"
+
+1597557896 source:d:\manaal\comsats university\semester 4\oop\oop final project\final\project_074_bookshop management system\admin.cpp
+	"Admin.h"
+
+1597557894 d:\manaal\comsats university\semester 4\oop\oop final project\final\project_074_bookshop management system\admin.h
+	<string>
+
+1597587431 source:d:\manaal\comsats university\semester 4\oop\oop final project\final\project_074_bookshop management system\animation.cpp
+	"Animation.h"
+	<Windows.h>
+	<iostream>
+	<string>
+
+1597556334 d:\manaal\comsats university\semester 4\oop\oop final project\final\project_074_bookshop management system\animation.h
+	<string>
+
+1597847447 source:d:\manaal\comsats university\semester 4\oop\oop final project\final\project_074_bookshop management system\cashbox.cpp
+	"Cashbox.h"
+
+1597847447 d:\manaal\comsats university\semester 4\oop\oop final project\final\project_074_bookshop management system\cashbox.h
+	<fstream>
+	<string>
+	<iostream>
+
+1597847447 source:d:\manaal\comsats university\semester 4\oop\oop final project\final\project_074_bookshop management system\controller.cpp
+	"Controller.h"
+	"Cashbox.h"
+	"Books.h"
+	"Animation.h"
+	"Admin.h"
+	<iostream>
+	<fstream>
+	<string>
+	<Windows.h>
+	<conio.h>
+
+1597573291 d:\manaal\comsats university\semester 4\oop\oop final project\final\project_074_bookshop management system\controller.h
+	"string"
+
+1597838188 d:\manaal\comsats university\semester 4\oop\oop final project\final\project_074_bookshop management system\books.h
+	<string>
+	<iostream>
+	<fstream>
+	<conio.h>
+	<Windows.h>
+
+1597559113 source:d:\manaal\comsats university\semester 4\oop\oop final project\final\project_074_bookshop management system\main.cpp
+	"Admin.h"
+	"Controller.h"
+	"fstream"
+
+1597839642 source:d:\manaal\comsats university\semester 4\oop\oop final project\final\project_074_bookshop management system\books.cpp
+	"Books.h"
+	"Animation.h"
+	"Controller.h"
+
